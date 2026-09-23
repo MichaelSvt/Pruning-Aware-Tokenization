@@ -1,6 +1,6 @@
 # Pruning-Aware Tokenization for Vision Transformers
 
-![PAT-ViT Architecture](figures/diagram.pdf)
+![PAT-ViT Architecture](figures/diagram.png)
 
 Efficient Vision Transformers through robust early token pruning.
 
@@ -15,7 +15,7 @@ By providing greater spatial coverage, this coarse-scale representation allows a
 
 ## Key Results
 
-![Accuracy vs FLOPs plot](figures/results.pdf)
+![Accuracy vs FLOPs plot](figures/results.png)
 
 | Model | Accuracy | GFLOPs | Throughput |
 |------|----------|--------|------------|
