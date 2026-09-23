@@ -18,7 +18,7 @@ By providing greater spatial coverage, this coarse-scale representation allows a
 ## Key Results
 
 <p align="center">
-  <img src="figures/results" width="850"/>
+  <img src="figures/results.png" width="850"/>
 </p>
 
 
