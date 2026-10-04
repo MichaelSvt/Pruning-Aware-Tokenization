@@ -19,42 +19,5 @@ By providing greater spatial coverage, this coarse-scale representation allows a
   <img src="figures/results.png" width="850"/>
 </p>
 
+Convolutional models prune after the first layer
 
-| Model | Accuracy | GFLOPs | Throughput |
-|------|----------|--------|------------|
-| ViT baseline | ... | ... | ... |
-| PAT-ViT | ... | ... | ... |
-
-## Method
-
-[architecture]
-
-## Token Pruning
-
-[visualization]
-
-## Experiments
-
-### ImageNet-1K
-
-...
-
-### Ablation Studies
-
-...
-
-## Installation
-
-...
-
-## Training
-
-...
-
-## Evaluation
-
-...
-
-## Citation
-
-...
